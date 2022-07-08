@@ -1,6 +1,6 @@
-#Site criado para portifolio
+# Site criado para portifolio
 
-##Uma pequena replica do instagram feita a mão. 
+## Uma pequena replica do instagram feita a mão. 
 
 
 Tecnologias uitlizadas: 
