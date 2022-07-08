@@ -1,0 +1,44 @@
+
+
+.segundoContainer{
+    /* background-color:rgb(230, 224, 235); */
+    width: 400px;
+    text-align: center;
+    padding: 30px;
+    margin: 20px auto;
+    height: 70%;
+    border: 1px rgb(187, 183, 183) solid;
+}
+
+#logo{
+    padding: 20px;
+}
+
+input{
+    width: 90%;
+    margin: 20px;
+    padding: 8px;
+}
+
+.btn{
+    width: 90%;
+}
+
+.terceiroContainer{
+    width: 400px;
+    margin: 0 auto;
+    /* background-color:rgb(230, 224, 235); */
+    text-align: center;
+    padding: 20px;
+    border: 1px rgb(187, 183, 183) solid;
+}
+
+.imgs{
+    width: 140px;
+    height: 40px;
+    margin: 0px 0px 0px 10px;
+}
+
+.span{
+    margin: 0px 30px 0px 0px;
+}
